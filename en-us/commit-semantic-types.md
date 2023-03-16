@@ -1,0 +1,54 @@
+## Examples of types to put in your commit and make development even cleaner ⬇
+
+- **refactor**: Changes in code for refactoring, that is, improving the internal structure of the code without changing its external behavior.
+- **upstream**: Update code from an upstream repository, which is the original repository of a forked project.
+- **versioning**: Code changes related to updating or changing software versions.
+- **i18n**: Code changes related to internationalization or localization of a project.
+- **authentication**: Code changes related to user authentication or authorization.
+- **deployment**: Code changes related to the project deployment process.
+- **bugfix**: Code changes related to bug fixes or functional problems.
+- **hotfix**: Code changes related to urgent correction of bugs or critical issues.
+- **experimental**: Code changes related to experimental features or functionality.
+- **standardization**: Code changes to standardize nomenclature or writing style.
+- **compatibility**: Code changes to ensure compatibility with previous versions or other platforms.
+- **local-changes**: Local changes to code, which do not affect other users or the remote repository.
+- **merge-conflict**: Code changes to resolve code merge conflicts.
+- **submodule**: Update a submodule, which is a separate repository within the project.
+- **prototype**: Code changes related to a prototype or experiment.
+- **undo**: Code changes to undo previous actions, such as accidental deletion of files or code.
+- **debug**: Code changes related to fixing debugging issues.
+- **temporarily-comment-out**: Temporary code comments, to temporarily disable a section of code.
+- **migration-seed**: Creating or updating a database migration script.
+- **wip**: Commits that indicate that the work in progress is not yet complete.
+- **hackathon**: Code changes related to a hackathon or similar event.
+- **ui**: Code changes related to the user interface, such as changes to styles, layouts and interactions.
+- **feature-toggle**: Code changes related to enabling or disabling specific features or functionality.
+- **dependencies**: Update project dependencies, such as libraries and frameworks.
+- **init**: Initial project commit, usually containing the project skeleton or basic configuration files.
+- **config**: Code changes related to environment configuration, such as configuration files or environment variables.
+- **api-change**: Code changes related to changing the project's public API.
+- **database**: Code changes related to the structure or migration of databases.
+- **logging**: Code changes related to adding or changing debug logs or information.
+- **analytics**: Code changes related to adding or changing metrics or analytics.
+- **documentation**: Addition or update of project documentation, such as README, usage guides, API documentation, among others.
+- **ci**: Code changes related to continuous integration or test automation.
+- **testing**: Addition or update of tests in the project.
+- **localization**: Added or updated translations or localizations for different languages.
+- **migration**: Code changes related to data or structure migration.
+- **revert**: Reversal of a previous commit, generally used to undo incorrect changes.
+- **merge**: Merge branches or pull requests.
+- **deploy**: Commit that starts the application deployment process.
+- **security**: Code changes to improve application security.
+- **release**: Commit that marks the release of a new version of the application.
+- **version-tagging**: Code changes related to creating or updating version tags in the repository.
+- **workflow**: Code changes related to process or workflow automation.
+- **package-lock**: Update or fix package-lock.json file.
+- **typings**: Addition or update of type definition files (typings).
+- **performance**: Code changes to improve application performance.
+- **experiment**: Code changes that aim to test a new approach or solution.
+- **refactor-test**: Test code refactoring.
+- **refactor-performance**: Code refactoring in order to improve performance.
+- **refactor-structure**: Code refactoring to improve structure, organization or readability.
+- **refactor-library**: Code refactoring in libraries or external packages.
+- **refactor-style**: Code refactoring to improve the style or follow established standards.
+- **refactor-variable**: Code refactoring to improve usage or naming

@@ -1,0 +1,95 @@
+## Exemplos de tipos para colocar no seu commit e tornar o desenvolvimento mais limpo ainda ⬇
+
+- **refactor**: Mudanças em código para refatoração, ou seja, melhoria da estrutura interna do código sem alterar o seu comportamento externo.
+- **upstream**: Atualização de código de um repositório upstream, que é o repositório original de um projeto forkado.
+- **versioning**: Mudanças em código relacionadas à atualização ou alteração de versões de software.
+- **i18n**: Mudanças em código relacionadas à internacionalização ou localização de um projeto.
+- **authentication**: Mudanças em código relacionadas à autenticação ou autorização de usuários.
+- **deployment**: Mudanças em código relacionadas ao processo de implantação do projeto.
+- **bugfix**: Mudanças em código relacionadas à correção de bugs ou problemas funcionais.
+- **hotfix**: Mudanças em código relacionadas à correção urgente de bugs ou problemas críticos.
+- **experimental**: Mudanças em código relacionadas a recursos ou funcionalidades experimentais.
+- **standardization**: Mudanças em código para padronizar a nomenclatura ou o estilo de escrita.
+- **compatibility**: Mudanças em código para garantir a compatibilidade com versões anteriores ou outras plataformas.
+- **local-changes**: Mudanças locais em código, que não afetam outros usuários ou o repositório remoto.
+- **merge-conflict**: Mudanças em código para resolver conflitos de mesclagem de código.
+- **submodule**: Atualização de um submódulo, que é um repositório separado dentro do projeto.
+- **prototype**: Mudanças em código relacionadas a um protótipo ou experimento.
+- **undo**: Mudanças em código para desfazer ações anteriores, como exclusão acidental de arquivos ou código.
+- **debug**: Mudanças em código relacionadas à correção de problemas de depuração.
+- **temporarily-comment-out**: Comentários em código temporários, para desativar temporariamente uma seção de código.
+- **migration-seed**: Criação ou atualização de um script de migração de banco de dados.
+- **wip**: Commits que indicam que o trabalho em progresso ainda não está completo.
+- **hackathon**: Mudanças em código relacionadas a um hackathon ou evento similar.
+- **ui**: Mudanças em código relacionadas à interface do usuário, como alterações em estilos, layouts e interações.
+- **feature-toggle**: Mudanças em código relacionadas à ativação ou desativação de recursos ou funcionalidades específicas.
+- **dependencies**: Atualização de dependências do projeto, como bibliotecas e frameworks.
+- **init**: Commit inicial do projeto, geralmente contendo o esqueleto do projeto ou arquivos de configuração básicos.
+- **config**: Mudanças em código relacionadas à configuração de ambientes, como arquivos de configuração ou variáveis de ambiente.
+- **api-change**: Mudanças em código relacionadas à alteração da API pública do projeto.
+- **database**: Mudanças em código relacionadas à estrutura ou migração de bancos de dados.
+- **logging**: Mudanças em código relacionadas à adição ou alteração de logs de debug ou informação.
+- **analytics**: Mudanças em código relacionadas à adição ou alteração de métricas ou análises.
+- **documentation**: Adição ou atualização de documentação do projeto, como README, guias de uso, documentação de API, entre outros.
+- **ci**: Mudanças em código relacionadas à integração contínua ou automação de testes.
+- **testing**: Adição ou atualização de testes no projeto.
+- **localization**: Adição ou atualização de traduções ou localizações para diferentes idiomas.
+- **migration**: Mudanças em código relacionadas a migração de dados ou de estrutura.
+- **revert**: Reversão de um commit anterior, geralmente utilizado para desfazer alterações incorretas.
+- **merge**: Mescla de branches ou pull requests.
+- **deploy**: Commit que inicia o processo de deploy da aplicação.
+- **security**: Mudanças em código para melhorar a segurança da aplicação.
+- **release**: Commit que marca o lançamento de uma nova versão da aplicação.
+- **version-tagging**: Mudanças em código relacionadas a criação ou atualização de tags de versão no repositório.
+- **workflow**: Mudanças em código relacionadas a automação de processos ou workflows.
+- **package-lock**: Atualização ou correção do arquivo package-lock.json.
+- **typings**: Adição ou atualização de arquivos de definição de tipos (typings).
+- **performance**: Mudanças em código para melhorar a performance da aplicação.
+- **experiment**: Mudanças em código que visam testar uma nova abordagem ou solução.
+- **refactor-test**: Refatoração de código de testes.
+- **refactor-performance**: Refatoração de código com o objetivo de melhorar a performance.
+- **refactor-structure**: Refatoração de código para melhorar a estrutura, organização ou legibilidade.
+- **refactor-library**: Refatoração de código em bibliotecas ou pacotes externos.
+- **refactor-style**: Refatoração de código para melhorar o estilo ou seguir padrões estabelecidos.
+- **refactor-variable**: Refatoração de código para melhorar o uso ou nomeação de variáveis.
+- **refactor-function**: Refatoração de código para melhorar a funcionalidade ou desempenho de funções.
+- **refactor-class**: Refatoração de código para melhorar a estrutura e desempenho de classes.
+- **refactor-documentation**: Refatoração de documentação do código.
+- **refactor-configuration**: Refatoração de código de configuração.
+- **refactor-build**: Refatoração de código de build ou compilação.
+- **refactor-deployment**: Refatoração de código relacionado a deploy.
+- **refactor-infrastructure**: Refatoração de código de infraestrutura.
+- **mock**: Adição ou atualização de dados de teste em mockups.
+- **story**: Adição ou atualização de histórias do usuário.
+- **seo**: Mudanças em código que afetam a otimização de motores de busca (SEO).
+- **accessibility**: Mudanças em código para melhorar a acessibilidade do site ou
+- **bug-report**: Adição ou atualização de relatórios de bugs.
+- **epic**: Mudanças em código relacionadas a epics ou grandes histórias do usuário.
+- **issue**: Resolução de uma issue do sistema de gestão de projetos (como o Jira ou o GitHub Issues).
+- **mockup**: Adição ou atualização de mockups ou protótipos de tela.
+- **poc**: Código relacionado a prova de conceito (Proof of Concept).
+- **polish**: Adição de pequenos detalhes ou melhorias que não afetam a funcionalidade principal.
+- **design**: Mudanças em código relacionadas ao design, como a adição ou atualização de CSS ou arquivos de design.
+- **wireframe**: Adição ou atualização de wireframes ou esboços de telas.
+- **admin**: Mudanças em código relacionadas à área administrativa da aplicação.
+- **user-flow**: Mudanças em código que afetam o fluxo do usuário.
+- **modularization**: Mudanças em código para modularizar ou dividir em partes menores e mais gerenciáveis.
+- **dependency**: Atualização ou adição de dependências do projeto.
+- **bump**: Incremento de versão de uma dependência ou do próprio projeto.
+- **infra**: Mudanças em código relacionadas à infraestrutura, como a configuração de servidores ou atualização de bibliotecas de infraestrutura.
+- **cleanup**: Remoção de código, arquivos ou recursos desnecessários.
+- **data**: Mudanças em dados, como a adição ou remoção de informações em um banco de dados.
+- **migration**: Mudanças em código relacionadas a migrações de dados ou atualizações de versão.
+- **log**: Mudanças relacionadas a logs ou monitoramento do sistema.
+- **styleguide**: Mudanças em arquivos de estilo ou guias de estilo do código.
+- **reformat**: Mudanças em formatação ou estilos de código.
+- **upgrade**: Atualização de dependências ou tecnologias utilizadas.
+- **downgrade**: Rebaixamento de dependências ou tecnologias utilizadas.
+- **feat**: Um novo recurso foi adicionado ao código.
+- **fix**: Um bug foi corrigido.
+- **docs**: Mudanças na documentação, como a adição de comentários ou a atualização de documentação de um recurso.
+- **style**: Mudanças no estilo do código, como a adição de espaços em branco ou a reformatação do código.
+- **test**: Adição de testes de unidade, integração ou outros tipos de testes.
+- **chore**: Mudanças em tarefas de construção, como atualizações de dependências ou configuração do ambiente de desenvolvimento.
+- **perf**: Mudanças no código para melhorar o desempenho.
+- **build**: Mudanças relacionadas a construção, como a configuração de um novo servidor de build ou atualização de um arquivo de configuração de build.
